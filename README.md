@@ -1,4 +1,4 @@
-# Topics covered in DTTE Projects
+# Topics covered in DTTE Assignment:
 
 - Assignment 1:   Basic Python: Data types, Data structure and libraries like numpy,pandas,matplotlib,seaborn
 - Assignment 2:   Feature extraction and Data Augmentation of data.
@@ -18,3 +18,4 @@
 - Assignment 16:  Support Vector Machine(SVM).
 - Assignment 17:  Introduction to Decision Trees.
 - Assignment 18:  Information Metrics and generalizability of Decision Trees.
+- Assignment 19:  Ensemble Methods and Random Forests.
